@@ -3,7 +3,7 @@
 Plugin Name: Category Description Widget
 Plugin URI: http://lostfocus.de
 Description: Enables a widget with the category description
-Version: 0.1
+Version: 2
 Author: Dominik Schwind
 Author URI: http://lostfocus.de/
 License: GPL2
@@ -34,9 +34,10 @@ class Category_Description_Widget extends WP_Widget {
         );
     }
     public function widget( $args, $instance ) {
-        if(!is_tax()){
+        if(!is_tax() && !is_category() && !is_tag()){
             return false;
         }
+        extract( $args );
         echo $before_widget;
         echo term_description();
         echo $after_widget;
