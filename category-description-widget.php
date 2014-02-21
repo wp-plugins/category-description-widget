@@ -9,7 +9,7 @@ Author URI: http://lostfocus.de/
 License: GPL2
 */
 
-/*  Copyright 2014  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
+/*  Copyright 2014  Dominik Schwind  (email : dschwind@lostfocus.de)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
