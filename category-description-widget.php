@@ -3,7 +3,7 @@
 Plugin Name: Category Description Widget
 Plugin URI: http://lostfocus.de
 Description: Enables a widget with the category description
-Version: 2
+Version: 2.1
 Author: Dominik Schwind
 Author URI: http://lostfocus.de/
 License: GPL2
