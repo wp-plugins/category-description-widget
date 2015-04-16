@@ -1,7 +1,7 @@
 === Category Description Widget ===
 Contributors: dominik.schwind
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.2
 Stable tag: 2.1
 License: GPL2
 Tags: Category, Taxonomy, Tags, Widget
